@@ -21,7 +21,7 @@
 
 }
 
-//SoLUTION:-
+//SOLUTION:-
 
 /* ~ OPTION-3: "EC6 latest System" to solve the problem ~  */
 {
